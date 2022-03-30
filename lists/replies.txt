@@ -1,0 +1,6 @@
+canons:Thanks for the suggestion, but General Skywalker thinks they're fine where they are.
+shuttle:So what do we do? Fight our way to the shuttle?
+sun bonnet:Hands above your heads! Take your sun bonnets off.
+shinies:Looks like we got us a bunch of shinies, Commander.
+goldy:Next time, you're lugging this astromech around!
+
