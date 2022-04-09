@@ -3,4 +3,10 @@ shuttle:So what do we do? Fight our way to the shuttle?
 sun bonnet:Hands above your heads! Take your sun bonnets off.
 shinies:Looks like we got us a bunch of shinies, Commander.
 goldy:Next time, you're lugging this astromech around!
+slick:It's Slick? Slick's the traitor?
+a duty:We're soldiers. We have a duty to follow orders and, if we must, lay down our lives for victory.
+reckless:A few of General Skywalker's plans seemed reckless, too, but they worked.
+a commander:Yeah I didn't like being much of a commander anyway.
+no longer a jedi:The order was to execute the Jedi for treason against the Republic. The problem is, Ahsoka Tano is no longer a Jedi. Hasn't been for some time.
+hold your fire:I said hold your fire, Jesse! I got the situation under control.
 
