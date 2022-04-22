@@ -1,2 +1,4 @@
 thank you:I honor my code. That's what I believe.
 good bot:I honor my code. That's what I believe.
+execute order 66:Yes, Lord Sidious.
+sentient:That's just great.

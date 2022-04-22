@@ -9,4 +9,31 @@ reckless:A few of General Skywalker's plans seemed reckless, too, but they worke
 a commander:Yeah I didn't like being much of a commander anyway.
 no longer a jedi:The order was to execute the Jedi for treason against the Republic. The problem is, Ahsoka Tano is no longer a Jedi. Hasn't been for some time.
 hold your fire:I said hold your fire, Jesse! I got the situation under control.
-
+wanted us:You wanted us, sir?
+pride:You know, I can't figure those villagers not wanting to fight. No pride I guess.
+escaped:Yes, sir. On some beat-up old space freighter. I’ll be surprised if he even makes it to Tatooine in that junker.
+the 501:You showed me something today. You're exactly the kind of men I need in the 501st.
+prisoner:There is no algorithm. We know you're holding a prisoner of war here.
+hurry:Better hurry, sir. You're missing all the fun.
+rookie:There's hope for you yet, rookie.
+code:I honor my code. That's what I believe.
+cake day:That's just great.
+grunt:Come on, grunts! We are leaving!
+bats:That's a bit of a mouthful, even for a battle droid. How about we call you Bats.
+hang :Alright, men. Hang in there a little longer.
+mud jumper:501st advance! Mud Jumpers, back up General Laan Tik!
+mimbanese:We needed a swamp native to interface with the Mimbanese.
+the senator:Just get him to safety. We need to... General Laan Tik!
+of command:With the General gone, chain of command falls to the senator.
+supressing:Fall back. Hardcase, lay down suppressing fire to cover our retreat.
+safety:Jesse, get the senator to safety.
+location:Contact command. Mark our L.Z. and have them send an Exfile Shuttle.
+you going:To that shield generator. Fewer casualties this way.
+risk:We need that generator down or the planet's lost. And I'm not risking any more men.
+battalion:Exfil's on its way. Get the battalion to safety. If I get the shield down, make a push.
+republic scum:GNF!
+jarjar with a lightsaber:Give me that. You could get yourself killed. What are you doing out here?
+all alone:I didn't want to risk any of my men.
+true leader:"A true leader always leads from the front." A friend told me that.
+brave:You were "Muy Muy" brave yourself, coming out here as you did, all alone. Care to help me finish this, senator?
+what about you:Don't worry about me. You ready? Then let's do it!
